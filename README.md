@@ -1,10 +1,10 @@
 
 
-<h1 >Skill Set Sail</h1>
+<h1 >Job Portal</h1>
 
 
 
-Skill Set Sail is a comprehensive MERN stack application designed to facilitate job seeking and recruitment processes with an intuitive and user-friendly interface.
+Job Portal is a comprehensive MERN stack application designed to facilitate job seeking and recruitment processes with an intuitive and user-friendly interface.
 
 ## Features
 
@@ -51,8 +51,8 @@ Skill Set Sail is a comprehensive MERN stack application designed to facilitate 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/hallowshaw/SkillSetSail.git
-   cd SkillSetSail
+   git clone https://github.com/hallowshaw/JobPortal.git
+   cd JobPOrtal
    ```
 
 
